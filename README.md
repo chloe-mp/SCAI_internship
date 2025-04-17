@@ -1,1 +1,0 @@
-# SCAI_internship
